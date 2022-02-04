@@ -7,7 +7,7 @@ import Footer from './footer';
 import Home from '../routes/home';
 
 const App = () => (
-	<div id="app">
+	<div id="app" class="min-h-screen">
 		<Header />
 		<Router>
 			<Home path="/" />

@@ -3,13 +3,9 @@
 @tailwind utilities;
 
 html, body {
-	@apply h-full w-full p-0 m-0
+	@apply h-full w-full p-0 m-0 bg-stone-50
 }
 
 * {
 	@apply box-border
-}
-
-#app {
-	@apply min-h-screen
 }
