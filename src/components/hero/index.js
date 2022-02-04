@@ -11,4 +11,4 @@ export default function Hero() {
             </hero-content>
         </section>
     )
-}in
+}
