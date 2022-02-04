@@ -8,21 +8,21 @@ const NAVIGATION = [
   },
   {
     label: 'Projects',
-    target: '/projects'
+    target: '/project/'
   }
 ];
 
 const Header = () => {
   const [isScrolled, setScroll] = useState(false);
 
-  useEffect(()=>{
-	  window.addEventListener('scroll',()=>{
-		  setScroll(window.scrollY > 100);
-	  })
-  }, [])
+  useEffect(() => {
+    window.addEventListener('scroll', () => {
+      setScroll(window.scrollY > 100);
+    });
+  }, []);
 
   return (
-    <header class={`backdrop-blur py-4 px-8 fixed top-0 inset-x-0 transition-color duration-500  z-10 ${isScrolled?'bg-stone-50 text-stone-900':'bg-stone-50/0 text-stone-900'}`}>
+    <header class={`backdrop-blur py-4 px-8 fixed top-0 inset-x-0 transition-all duration-500 z-10 ${isScrolled ? 'bg-stone-50 text-stone-900 shadow' : 'bg-stone-50/0 text-stone-900 shadow-none'}`}>
       <header-wrapper class="flex flex-row justify-between gap-4 max-w-screen-md mx-auto">
         <h1 class="text-xl flex-shrink-0">Claire Lee</h1>
         <nav class="flex gap-4 flex-shrink">
