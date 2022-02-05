@@ -8,7 +8,7 @@ export default function Project() {
   return (
     <main class="flex flex-col gap-4">
       <ProjectHero />
-      <Markdown class="prose px-8 mx-auto" options={{ wrapper: 'article', forceWrapper: true }}>
+      <Markdown class="px-8 mx-auto prose" options={{ wrapper: 'article', forceWrapper: true }}>
         {project.replace(/---(.*\n)*---/, '')}
       </Markdown>
     </main>

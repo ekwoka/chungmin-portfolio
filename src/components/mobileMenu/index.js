@@ -29,9 +29,9 @@ export default function MobileNav({ className, setOpen, navigation }) {
             </div>
 
             <Transition as={Fragment} enter="transition duration-500" enterFrom="opacity-0 translate-x-2" enterTo="opacity-100 translate-x-0" leave="transition duration-500" leaveFrom="opacity-100 translate-x-0" leaveTo="opacity-0 translate-x-2">
-              <Popover.Panel class="fixed inset-x-0 z-10 shadow-lg transform mt-5">
+              <Popover.Panel class="fixed inset-x-0 z-10 mt-5 shadow-lg transform">
                 <div class="bg-stone-50 text-stone-900">
-                  <div class="px-4 pb-6 mx-auto flex flex-col gap-y-2">
+                  <div class="flex flex-col px-4 pb-6 mx-auto gap-y-2">
                     {navigation.map((item) => (
                       <Link key={item.label} href={item.target} class="block transition-all hover:tracking-widest min-w-[8ch] text-center py-2 px-4 text-2xl" activeClass="font-bold pointer-events-none" onClick={close}>
                       {item.label}
@@ -39,8 +39,8 @@ export default function MobileNav({ className, setOpen, navigation }) {
                     ))}
                   </div>
                 </div>
-                <div class="bg-stone-100 border-t border-stone-200">
-                  <div class="px-4 py-5 mx-auto flex flex-col gap-2 max-w-max">
+                <div class="border-t bg-stone-100 border-stone-200">
+                  <div class="flex flex-col px-4 py-5 mx-auto gap-2 max-w-max">
                     {callsToAction.map((item) => (
                         <Link href={item.href} class="flex items-center text-base font-medium text-gray-900 transition duration-150 ease-in-out rounded-md hover:bg-gray-100">
                           <CheckCircleIcon class="flex-shrink-0 w-6 h-6 text-gray-400" aria-hidden="true" />
