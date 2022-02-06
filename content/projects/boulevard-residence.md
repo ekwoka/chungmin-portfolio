@@ -20,8 +20,6 @@ After arriving from a private elevator, client first enters a foyer which will g
 
 Arrive through elegant foyer, directs your senses inwards to the Living room and be welcomed with her immersive surroundings, heightens and intrigues your sensorial experiences.
 
-
-
 ![](/images/uploads/2021.11.22-dining.jpg)
 
 ![](/images/uploads/master-bedroom.jpg)
