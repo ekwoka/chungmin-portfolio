@@ -1,4 +1,4 @@
-import heroImage from '../../static/images/uploads/l1-main-lobby-edited-by-wes_020821.jpg'
+import heroImage from '../../static/images/uploads/AC-hotel_lobby.jpg'
 
 export default function Hero() {
     return (
