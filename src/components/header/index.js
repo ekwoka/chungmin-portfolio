@@ -38,7 +38,7 @@ const Header = () => {
           <MobileNav className="block md:hidden" navigation={NAVIGATION} setOpen={setNavOpen} />
         </header-wrapper>
       </header>
-      <div class={`fixed inset-0 w-full h-screen z-10 bg-stone-900 transition-opacity ${navOpen ? 'opacity-75 duration-700' : 'opacity-0 duration-300'}`}></div>
+      <div class={`fixed inset-0 w-full h-screen z-10 bg-stone-900 transition-opacity pointer-events-none ${navOpen ? 'opacity-75 duration-700' : 'opacity-0 duration-300'}`} />
     </>
   );
 };
