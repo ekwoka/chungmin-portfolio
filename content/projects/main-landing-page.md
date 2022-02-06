@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAIN LANDING PAGE
+title: CAVAN ROAD
 location: Singapore
 date: 2022-02-06T17:51:17.706Z
 thumbnail: /images/uploads/lobby-area-effect-panel-update.png
