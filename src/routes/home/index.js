@@ -1,9 +1,11 @@
-import Hero from '../../components/hero'
+import Hero from '../../components/hero';
+import ImageGrid from '../../components/galleries/imageGrid';
 
 const Home = () => (
-	<div class>
+	<main>
 		<Hero />
-	</div>
+		<ImageGrid />
+	</main>
 );
 
 export default Home;
