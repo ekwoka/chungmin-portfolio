@@ -4,7 +4,7 @@ title: BOULEVARD RESIDENCE
 location: Orchard, Singapore
 date: 2022-02-06T16:15:25.757Z
 thumbnail: /images/uploads/foyer.jpg
-Role: Senior designer, Lead the design
+Role: "Main interior designer "
 ---
 All the world’s a stage and all the men and women merely players.
 
@@ -12,11 +12,11 @@ William Shakespeare
 
 
 
-Arrive from hustle – bustle and be greeted with soft curved lines and surroundings. Elevate to unique and elegant space with burgundy marble inserts.
+Located on the top floor of the condominium in Orchard, Boulevard residence is inspired by a theatrical stage where a diva stands on. 
+
+After arriving from a private elevator, client first enters a foyer which will greet her with soft curved lines and elegant surroundings. Elevate the space with burgundy marble inserts floor and bronze metal wall trim. Bring the soft curved lines on the wall and place a full height mirror with modern classic molding, which ease the stress from hustle and bustle and lift up the mood for great start of a day.
 
 ![](/images/uploads/living-room.jpg)
-
-
 
 Arrive through elegant foyer, directs your senses inwards to the Living room and be welcomed with her immersive surroundings, heightens and intrigues your sensorial experiences.
 
