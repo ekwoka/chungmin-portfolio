@@ -4,9 +4,9 @@
   "version": "0.2.0",
   "license": "MIT",
   "scripts": {
-    "build": "preact build",
+    "build": "preact build --prerenderUrls ./prerender-urls.js",
     "serve": "sirv build --port 8080 --cors --single",
-    "dev": "preact watch",
+    "dev": "preact watch  --prerenderUrls ./prerender-urls.js",
     "lint": "eslint src",
     "test": "jest",
     "upgrade": "ncu -u && pnpm i && pnpm build && git add . && git commit -m ':arrow_up: Dependencies' && pnpm version patch"
@@ -35,13 +35,14 @@
     "autoprefixer": "^10.4.2",
     "graphql": "^16.3.0",
     "markdown-to-jsx": "^7.1.6",
-    "postcss": "^8.4.6",
+    "postcss": "8.4.6",
     "preact": "^10.6.5",
+    "preact-cli-plugin-netlify": "^1.6.0",
     "preact-render-to-string": "^5.1.19",
     "preact-router": "^4.0.1",
     "react": "npm:preact@^10.6.5",
     "react-dom": "npm:preact@^10.6.5",
-    "tailwindcss": "^3.0.18",
+    "tailwindcss": "3.0.18",
     "typescript": "^4.5.5"
   },
   "jest": {
@@ -59,7 +60,8 @@
       "postcss@<8.2.13": ">=8.2.13",
       "node-forge@<1.0.0": ">=1.0.0",
       "trim@<0.0.3": ">=0.0.3",
-      "react@^15.0.0": "8.0.0"
+      "react@^15.0.0": "8.0.0",
+      "cssnano@<5.0.0": ">=5.0.15"
     }
   }
 }
