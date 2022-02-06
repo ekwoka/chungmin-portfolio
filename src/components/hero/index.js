@@ -1,3 +1,5 @@
+import { ChevronDoubleDownIcon } from '@heroicons/react/outline';
+
 import heroImage from '../../static/images/uploads/AC-hotel_lobby.jpg'
 
 export default function Hero() {
@@ -9,6 +11,7 @@ export default function Hero() {
                     Senior Interior Designer with focus on Hospitality and Sustainable Design
                 </h2>
             </hero-content>
+            <ChevronDoubleDownIcon class="absolute w-8 h-8 mx-auto bottom-4 text-stone-700 hover:text-stone-900 transition-all hover:scale-110" />
         </section>
     )
 }
