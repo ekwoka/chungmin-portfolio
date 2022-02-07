@@ -16,7 +16,11 @@ export default function Project() {
       </ImageSlider>
       <Markdown
         class="px-8 mx-auto prose"
-        options={{ wrapper: 'article', forceWrapper: true }}>
+        options={{
+          wrapper: 'article',
+          forceWrapper: true,
+          overrides: { ImageSlider: { component: ImageSlider } },
+        }}>
         {project.replace(/---(.*\n)*---/, '')}
       </Markdown>
     </main>
