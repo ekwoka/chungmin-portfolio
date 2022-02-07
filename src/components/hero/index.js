@@ -11,7 +11,7 @@ export default function Hero() {
         alt="AC Hotel Main Lobby"
       />
       <hero-content class="absolute flex flex-col w-full px-4 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 gap-y-4">
-        <h2 class="block text-3xl tracking-wider">
+        <h2 class="block text-xl tracking-wider font-goldenbook">
           Senior Interior Designer with focus on Hospitality and Sustainable
           Design
         </h2>

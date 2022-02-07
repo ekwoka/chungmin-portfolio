@@ -17,3 +17,18 @@ body {
     scrollbar-width: none;
   }
 }
+
+@layer base {
+  @font-face {
+    font-family: 'Proxima Nova';
+    src: url('./fonts/Proxima Nova Font.otf') format('opentype');
+    font-display: block;
+  }
+
+  @font-face {
+    font-family: 'Goldenbook';
+    src: url('./fonts/Goldenbook Regular.otf') format('opentype'),
+      url('./fonts/Goldenbook Bold.otf') format('opentype'),
+      url('./fonts/Goldenbook Light.otf') format('opentype');
+  }
+}

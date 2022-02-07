@@ -32,7 +32,9 @@ const Header = () => {
             : 'bg-stone-50/0 text-stone-900 shadow-none'
         }`}>
         <header-wrapper class="flex flex-row justify-between mx-auto gap-4 max-w-screen-md">
-          <h1 class="flex-shrink-0 px-4 py-2 text-xl">Claire Lee</h1>
+          <h1 class="flex-shrink-0 px-4 py-2 text-xl font-goldenbook uppercase">
+            Claire Lee
+          </h1>
           <nav class="flex-shrink hidden gap-4 md:flex">
             {NAVIGATION.map((item, i) => (
               <Link
