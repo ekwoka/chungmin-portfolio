@@ -1,10 +1,10 @@
 import Hero from '../../components/hero';
-import ImageGrid from '../../components/galleries/imageGrid';
+import AsymetricGrid from '../../components/galleries/asymetricGrid';
 
 const Home = () => (
 	<main>
 		<Hero />
-		<ImageGrid />
+		<AsymetricGrid />
 	</main>
 );
 
