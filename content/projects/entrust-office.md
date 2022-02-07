@@ -4,6 +4,7 @@ title: Entrust Office
 location: Singapore
 thumbnail: /images/uploads/entry-update.jpg
 ---
+
 ![](/images/uploads/lounge.jpg)
 
 ![](/images/uploads/meeting-room_jane-3-copcurtain.jpg)

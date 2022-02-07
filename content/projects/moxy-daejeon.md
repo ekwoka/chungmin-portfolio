@@ -4,6 +4,7 @@ title: MOXY Daejeon
 location: South Korea
 thumbnail: /images/uploads/zone-2.png
 ---
+
 Once a historical bank building in front of the train station located in in the heart of South Korea, MOXY is newborn in the old district of Daejeon, designed to build community and to inspire creative collaboration with local artists.
 
 ![](/images/uploads/zone1_ghosting.jpg)

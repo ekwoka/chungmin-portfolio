@@ -4,6 +4,7 @@ title: 108 Mai Hac De’s Project
 location: Vietnam
 thumbnail: /images/uploads/200810-render-l6_page_07.jpg
 ---
+
 ![](/images/uploads/200810-render-l6_page_10.jpg)
 
 ![](/images/uploads/200810-render-l6_page_04.jpg)

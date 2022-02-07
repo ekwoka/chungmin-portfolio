@@ -25,6 +25,8 @@
     "jest": "^27.5.0",
     "jest-preset-preact": "^4.0.5",
     "preact-cli": "^3.3.4",
+    "prettier": "^2.5.1",
+    "prettier-plugin-tailwindcss": "^0.1.5",
     "sirv-cli": "2.0.2"
   },
   "dependencies": {
@@ -63,5 +65,9 @@
       "react@^15.0.0": "8.0.0",
       "cssnano@<5.0.0": ">=5.0.15"
     }
+  },
+  "prettier": {
+    "singleQuote": true,
+    "bracketSameLine": true
   }
 }

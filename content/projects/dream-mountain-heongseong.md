@@ -4,6 +4,7 @@ title: Dream Mountain Heongseong
 location: South Korea
 thumbnail: /images/uploads/2021.12.20_golf-house-view.jpg
 ---
+
 ![](/images/uploads/2021.12.20_low-rise-type-living.jpg)
 
 ![](/images/uploads/2021.12.16_residence-a-view.jpg)

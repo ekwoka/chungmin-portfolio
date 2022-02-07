@@ -3,12 +3,12 @@ const { join } = require('path');
 const fs = require('fs');
 
 module.exports = () => {
-	const pages = [
-		{
-			url: '/',
-			seo: {}
-		}
-	];
+  const pages = [
+    {
+      url: '/',
+      seo: {},
+    },
+  ];
 
-	return pages;
+  return pages;
 };

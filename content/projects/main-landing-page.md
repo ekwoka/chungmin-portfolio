@@ -4,12 +4,11 @@ title: CAVAN ROAD
 location: Singapore
 thumbnail: /images/uploads/lobby-area-effect-panel-update.png
 ---
+
 ![](/images/uploads/entry_effect_combined.png)
 
-
-
 **Arrival**\
-W E L C O M E   T O   T H E   C A V A N 
+W E L C O M E   T O   T H E   C A V A N
 
 Arrive through a wooden passage-like tunnel, directs your senses inwards to the Lobby and be greeted with her immersive surroundings, heightens and intrigues your sensorial experiences.
 
