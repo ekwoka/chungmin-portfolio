@@ -20,7 +20,9 @@ We distilled the elements from the surroundings of past and present of train sta
 
 ![](/images/uploads/zone3.jpg)
 
-The railway lighting is customized with various pattern and color which welcomes guests in the arrival and make them immerse into a journey. The column detail with corner metal capping is inspired by 'X' and 'O' train signal as a unique and playful thread that connects all space that has becomes
+The railway lighting is customized with various pattern and color which welcomes guests in and provide them playful and casual mood.
+
+The column detail with corner metal capping is inspired by 'X' and 'O' train signal and unique and playful thread that connects all space that has becomes
 
 Throughout overall space, It showcases the past and the present, drawing people of diverse cultures together.
 
