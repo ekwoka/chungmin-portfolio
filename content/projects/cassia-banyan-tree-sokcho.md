@@ -20,9 +20,9 @@ A landing stage platform echoing the captivating heartbeat of Cassia Sokcho. Thr
 
 ![](/images/uploads/2022.01.28_lobby-updated.png)
 
-STAIRWAY ARRIVAL 
+LOBBY RECEPTION 
 
-A landing stage platform echoing the captivating heartbeat of Cassia Sokcho. Created the different layered elements and patterns inspired from traditional straw braided rope on glass buoys used in fishing nets.
+The rhythmic approach of arches and large windows of perfect scenic views of Sokcho, is The Harbour, a welcome experience like no others.
 
 ![](/images/uploads/2022.01.20_banquet-hall_3.jpg)
 
