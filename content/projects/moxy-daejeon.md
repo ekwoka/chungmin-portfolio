@@ -2,9 +2,7 @@
 layout: project
 title: MOXY Daejeon
 location: South Korea
-date: 2022-02-06T17:43:30.952Z
 thumbnail: /images/uploads/zone-2.png
-Role: Senior designer / Assistant of Design director and developed overall ID
 ---
 Once a historical bank building in front of the train station located in in the heart of South Korea, MOXY is newborn in the old district of Daejeon, designed to build community and to inspire creative collaboration with local artists.
 

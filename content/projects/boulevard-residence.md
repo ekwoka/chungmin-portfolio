@@ -2,9 +2,7 @@
 layout: project
 title: BOULEVARD RESIDENCE
 location: Orchard, Singapore
-date: 2022-02-06T16:15:25.757Z
 thumbnail: /images/uploads/foyer.jpg
-Role: "Main interior designer "
 ---
 All the world’s a stage and all the men and women merely players.
 

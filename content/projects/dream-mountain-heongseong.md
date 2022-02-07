@@ -2,9 +2,7 @@
 layout: project
 title: Dream Mountain Heongseong
 location: South Korea
-date: 2022-02-06T17:58:37.977Z
 thumbnail: /images/uploads/2021.12.20_golf-house-view.jpg
-Role: Senior designer / Assistant of design director and overseeing juniors
 ---
 ![](/images/uploads/2021.12.20_low-rise-type-living.jpg)
 
