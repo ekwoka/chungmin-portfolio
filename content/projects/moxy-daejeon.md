@@ -4,17 +4,25 @@ title: MOXY Daejeon
 location: South Korea
 thumbnail: /images/uploads/zone-2.png
 ---
-Once a historical bank building in the 70s in South Korea, MOXY Daejeon is inspired by a journey from train station specifically on Daejeon train station which serves as a hub of transportation in Korea and where diverse cultures were created by come and go passengers.
+Location : South Korea
 
-We distilled the elements from the surroundings of train station in industrial mood and fun set-up and incorporated throughout the hotel is blue industrial metal structure, railways neon lighting, colored subway tile, scrabble wall tiles, shopfronts, and textures. The railway lighting is customized with various pattern and color which welcomes guests and 
+Size : 6,071 Sq. Mtr
 
 
+
+Once a historical bank site in old town of Daejeon in the 70s, MOXY Daejeon is designed to showcase the past and the present with its historical background, drawing people of diverse cultures together.
+
+MOXY Daejeon is inspired by a journey from train station specifically on Daejeon train station which serves as a hub of transportation in Korea and where diverse cultures were created by come and go passengers for the past half decade.
 
 ![](/images/uploads/zone1_ghosting.jpg)
 
-Throughout overall space, It showcases the past and the present, drawing people of diverse cultures together.
+We distilled the elements from the surroundings of past and present of train station for playful experience and incorporated throughout the hotel is blue industrial metal structure, railways neon lighting, colored subway tile, scrabble wall tiles, shopfronts, and textures. 
 
 ![](/images/uploads/zone3.jpg)
+
+The railway lighting is customized with various pattern and color which welcomes guests in the arrival and make them immerse into a journey. The column detail with corner metal capping is inspired by 'X' and 'O' train signal as a unique and playful thread that connects all space that has becomes
+
+Throughout overall space, It showcases the past and the present, drawing people of diverse cultures together.
 
 ![](/images/uploads/zone4.jpg)
 
