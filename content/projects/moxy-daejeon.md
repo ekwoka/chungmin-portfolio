@@ -4,12 +4,15 @@ title: MOXY Daejeon
 location: South Korea
 thumbnail: /images/uploads/zone-2.png
 ---
+Once a historical bank building in front of the train station in the 70s in South Korea, MOXY Daejeon is a newborn hotel available for both local and was inspired by a train station specifically on Daejeon train station which serves as a hub of transportation in Korea and where various people met and shared their culture. 
 
-Once a historical bank building in front of the train station located in in the heart of South Korea, MOXY is newborn in the old district of Daejeon, designed to build community and to inspire creative collaboration with local artists.
+We 
+
+In understanding that, the hotel is not only a place to sleep, but also functioning a a local just relaxing New town is moved to the other area but MOXY is designed to rebuild the local community and to inspire creative collaboration with local artists.
+
+such as train station structure, railways, shopfronts, and textures.
 
 ![](/images/uploads/zone1_ghosting.jpg)
-
-We take inspiration from Daejeon train station which serves as a hub of transportation and is at the crossroads of major transport routes, such as train station structure, railways, shopfronts, and textures.
 
 It showcases the past and the present, drawing people of diverse cultures together.
 
