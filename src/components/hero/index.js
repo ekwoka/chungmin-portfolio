@@ -1,18 +1,18 @@
 import { ChevronDoubleDownIcon } from '@heroicons/react/outline';
 import RespImage from '../../components/respImage';
 
-const src = '/images/uploads/AC-hotel_lobby.jpg';
+const src = '/images/uploads/20220208_152921471_ios.png';
 
 export default function Hero() {
   return (
     <section class="relative flex flex-col items-center w-full">
       <RespImage
         src={src}
-        class="object-cover w-full min-h-screen opacity-80"
+        class="object-cover w-full min-h-screen opacity-50"
         alt="AC Hotel Main Lobby"
         loading="eager"
       />
-      <hero-content class="absolute flex flex-col w-full px-4 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 gap-y-4">
+      <hero-content class="absolute flex flex-col w-full px-4 top-3/4 left-1/2 -translate-x-1/2 -translate-y-1/2 gap-y-4">
         <h2 class="block text-xl tracking-wider font-goldenbook">
           Senior Interior Designer with focus on Hospitality and Sustainable
           Design

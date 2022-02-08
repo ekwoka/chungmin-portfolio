@@ -26,11 +26,11 @@ const Header = () => {
             ? 'bg-neutral-50 text-neutral-900 shadow'
             : 'bg-neutral-50/0 text-neutral-900 shadow-none'
         }`}>
-        <header-wrapper class="flex flex-row justify-between mx-auto gap-4 max-w-screen-2xl md:px-8">
+        <header-wrapper class="flex flex-row md:flex-col justify-between md:justify-center mx-auto gap-4 w-full md:max-w-max md:px-8">
           <h1 class="flex-shrink-0 px-4 py-2 text-xl font-goldenbook uppercase md:text-3xl">
             Claire Lee
           </h1>
-          <nav class="flex-shrink hidden gap-4">
+          <nav class="flex-shrink hidden gap-4 md:flex justify-self-end">
             {mainNavigation.map((item) => (
               <Link
                 key={item.target}

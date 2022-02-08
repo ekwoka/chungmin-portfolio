@@ -6,9 +6,9 @@ const src = '/images/uploads/AC-hotel_lobby.jpg';
 
 export default function ProjectHero() {
   return (
-    <project-hero class="w-full max-h-[85vh] md:flex md:flex-col md:pt-12 block">
+    <project-hero class="w-full max-h-[85vh] md:flex md:flex-col md:pt-32 block">
       <Link href="/project" class="hidden md:block order-first">
-        <Arrow class="ml-16 my-8 w-36 h-12 text-neutral-900" />
+        <Arrow class="ml-16 my-8 w-auto h-6 text-neutral-900" />
       </Link>
 
       <RespImage
@@ -16,8 +16,8 @@ export default function ProjectHero() {
         src={src}
         loading="eager"
       />
-      <project-info class="px-8 pt-8 mx-auto w-full max-w-prose font-goldenbook order-1 md:ml-16 md:pl-0 block">
-        <h1 class="text-4xl md:text-5xl block">AC Hotel</h1>
+      <project-info class="px-8 pt-8 mx-auto w-full max-w-prose font-goldenbook order-1 md:ml-16 md:pl-0 md:pt-4 md:pb-8 block">
+        <h1 class="text-4xl md:text-5xl block uppercase">AC Hotel</h1>
         <h2 class="text-lg md:text-3xl block">Gangnam, Seoul, South Korea</h2>
       </project-info>
     </project-hero>
