@@ -2,17 +2,17 @@
 layout: project
 title: CAVAN ROAD
 location: Singapore
-thumbnail: /images/uploads/lobby-area-effect-panel-update.png
+thumbnail: /images/uploads/lobby-area-effect-panel-update.jpg
 ---
 
-![](/images/uploads/entry_effect_combined.png)
+![](/images/uploads/entry_effect_combined.jpg)
 
 **Arrival**\
 W E L C O M E   T O   T H E   C A V A N
 
 Arrive through a wooden passage-like tunnel, directs your senses inwards to the Lobby and be greeted with her immersive surroundings, heightens and intrigues your sensorial experiences.
 
-![](/images/uploads/lobby_effect-ghost-effect.png)
+![](/images/uploads/lobby_effect-ghost-effect.jpg)
 
 **Lobby**
 

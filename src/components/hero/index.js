@@ -1,7 +1,7 @@
 import { ChevronDoubleDownIcon } from '@heroicons/react/outline';
 import RespImage from '../../components/respImage';
 
-const src = '/images/uploads/20220208_152921471_ios.png';
+const src = '/images/uploads/20220208_152921471_ios.jpg';
 
 export default function Hero() {
   return (

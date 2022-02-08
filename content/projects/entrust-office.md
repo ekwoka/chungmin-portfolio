@@ -21,8 +21,8 @@ We distilled the elements from home and hotel such as long window banquette seat
 
 ![](/images/uploads/manager-room.jpg)
 
-![](/images/uploads/bathroom.png)
+![](/images/uploads/bathroom_1.jpg)
 
-![](/images/uploads/elevation-updated-loungeside.png)
+![](/images/uploads/elevation-updated-loungeside.jpg)
 
 ![](/images/uploads/elevation-2-jane-3.jpg)

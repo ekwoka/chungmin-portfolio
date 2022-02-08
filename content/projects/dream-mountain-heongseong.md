@@ -43,9 +43,9 @@ Continual exploration reveals the terrace, a unique luxurious accommodation, whi
 
 ![](/images/uploads/2021.12.20_low-rise-type-portait.jpg)
 
-![](/images/uploads/1_.png)
+![](/images/uploads/1_.jpg)
 
-![](/images/uploads/3_.png)
+![](/images/uploads/3_.jpg)
 
 ![](/images/uploads/2021.12.20_low-rise-type-living.jpg)
 

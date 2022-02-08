@@ -11,4 +11,4 @@ thumbnail: /images/uploads/entry.jpg
 
 ![](/images/uploads/rooftop.jpg)
 
-![](/images/uploads/2021.10.20_king-guestroom.png)
+![](/images/uploads/2021.10.20_king-guestroom.jpg)
