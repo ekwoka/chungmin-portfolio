@@ -4,11 +4,10 @@ title: MOXY Daejeon
 location: South Korea
 thumbnail: /images/uploads/zone-2.png
 ---
+
 Location : South Korea
 
 Size : 6,071 Sq. Mtr
-
-
 
 Once a historical bank site in old town of Daejeon in the 70s, MOXY Daejeon is designed to showcase the past and the present with its historical background, drawing people of diverse cultures together.
 
@@ -16,7 +15,7 @@ MOXY Daejeon is inspired by a journey from train station specifically on Daejeon
 
 ![](/images/uploads/zone1_ghosting.jpg)
 
-We distilled the elements from the surroundings of past and present of train station for playful experience and incorporated throughout the hotel is blue industrial metal structure, railways neon lighting, colored subway tile, scrabble wall tiles, shopfronts, and textures. 
+We distilled the elements from the surroundings of past and present of train station for playful experience and incorporated throughout the hotel is blue industrial metal structure, railways neon lighting, colored subway tile, scrabble wall tiles, shopfronts, and textures.
 
 ![](/images/uploads/zone3.jpg)
 

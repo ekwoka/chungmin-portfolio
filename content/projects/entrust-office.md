@@ -4,6 +4,7 @@ title: Entrust Office
 location: Singapore
 thumbnail: /images/uploads/entry-update.jpg
 ---
+
 Location : Clark quay, Singapore
 
 ![](/images/uploads/lounge.jpg)
@@ -12,13 +13,11 @@ Situated in the central area of Singapore, Entrust office is an investment offic
 
 ![]()
 
-
-
 ![](/images/uploads/meeting-room_jane-3-copcurtain.jpg)
 
 Entering the office, the lounge with colored acrylic partition in brand orange and big bar table placed in diagonal to create space more dynamic and draw attention in with accent terrazzo stone, burgundy colored laminate finish, and pendant lighting to light up the entrance softly.
 
-We distilled the elements from home and hotel such as long window banquette seating, soft colorful sheer curtains, soft arches, plants, and bar table. On early morning, start a day with sipping a nice cup of coffee on window banquette seating and have a passionate conversation on the bar table with a bottle of beer after dinner-while they can plug-in laptops 
+We distilled the elements from home and hotel such as long window banquette seating, soft colorful sheer curtains, soft arches, plants, and bar table. On early morning, start a day with sipping a nice cup of coffee on window banquette seating and have a passionate conversation on the bar table with a bottle of beer after dinner-while they can plug-in laptops
 
 ![](/images/uploads/manager-room.jpg)
 
