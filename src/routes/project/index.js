@@ -4,6 +4,7 @@ import project from '../../../content/projects/ac-hotel.md';
 
 import ProjectHero from '../../components/project/hero';
 import ImageSlider from '../../components/galleries/imageSlider';
+import RespImage from '../../components/respImage';
 
 export default function Project() {
   return (
@@ -19,7 +20,10 @@ export default function Project() {
         options={{
           wrapper: 'article',
           forceWrapper: true,
-          overrides: { ImageSlider: { component: ImageSlider } },
+          overrides: {
+            ImageSlider: { component: ImageSlider },
+            img: { component: RespImage },
+          },
         }}>
         {project.replace(/---(.*\n)*---/, '')}
       </Markdown>

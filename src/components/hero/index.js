@@ -1,14 +1,16 @@
 import { ChevronDoubleDownIcon } from '@heroicons/react/outline';
+import RespImage from '../../components/respImage';
 
-import heroImage from '../../static/images/uploads/AC-hotel_lobby.jpg';
+const src = '/images/uploads/AC-hotel_lobby.jpg';
 
 export default function Hero() {
   return (
     <section class="relative flex flex-col items-center w-full">
-      <img
-        src={heroImage}
+      <RespImage
+        src={src}
         class="object-cover w-full min-h-screen opacity-80"
         alt="AC Hotel Main Lobby"
+        loading="eager"
       />
       <hero-content class="absolute flex flex-col w-full px-4 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 gap-y-4">
         <h2 class="block text-xl tracking-wider font-goldenbook">
