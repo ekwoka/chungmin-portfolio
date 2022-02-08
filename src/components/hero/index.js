@@ -18,7 +18,7 @@ export default function Hero() {
           Design
         </h2>
       </hero-content>
-      <ChevronDoubleDownIcon class="absolute w-8 h-8 mx-auto bottom-4 text-stone-700 hover:text-stone-900 transition-all hover:scale-110" />
+      <ChevronDoubleDownIcon class="absolute w-8 h-8 mx-auto bottom-4 text-neutral-700 hover:text-neutral-900 transition-all hover:scale-110" />
     </section>
   );
 }

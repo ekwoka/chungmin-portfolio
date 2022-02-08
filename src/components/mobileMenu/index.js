@@ -3,12 +3,7 @@ import { Fragment } from 'react';
 import { Popover, Transition } from '@headlessui/react';
 import { CheckCircleIcon, MenuIcon } from '@heroicons/react/outline';
 import { Link } from 'preact-router/match';
-
-const callsToAction = [
-  { name: 'Contact', href: '#' },
-  { name: 'View CV', href: '#' },
-  { name: 'LinkedIn', href: '#' },
-];
+import { callsToAction } from '../../data/navigation';
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ');
@@ -24,7 +19,7 @@ export default function MobileNav({ className, setOpen, navigation }) {
             <div class={className}>
               <Popover.Button
                 class={classNames(
-                  open ? 'text-stone-500' : 'text-stone-900',
+                  open ? 'text-neutral-500' : 'text-neutral-900',
                   'py-2 px-4 inline-flex items-center'
                 )}>
                 <MenuIcon class="w-6 h-6" />
@@ -40,7 +35,7 @@ export default function MobileNav({ className, setOpen, navigation }) {
               leaveFrom="opacity-100 translate-x-0"
               leaveTo="opacity-0 translate-x-2">
               <Popover.Panel class="fixed z-10 mt-5 shadow-lg -inset-x-2 transform">
-                <div class="bg-stone-50 text-stone-900">
+                <div class="bg-neutral-50 text-neutral-900">
                   <div class="flex flex-col px-4 pb-6 mx-auto gap-y-2">
                     {navigation.map((item) => (
                       <Link
@@ -54,7 +49,7 @@ export default function MobileNav({ className, setOpen, navigation }) {
                     ))}
                   </div>
                 </div>
-                <div class="border-t bg-stone-100 border-stone-200">
+                <div class="border-t bg-neutral-100 border-neutral-200">
                   <div class="flex flex-col px-4 py-5 mx-auto gap-2 max-w-max">
                     {callsToAction.map((item) => (
                       <Link

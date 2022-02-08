@@ -4,7 +4,7 @@
 
 html,
 body {
-  @apply w-full h-full p-0 m-0 bg-stone-50;
+  @apply w-full h-full p-0 m-0 bg-neutral-50;
 }
 
 * {
