@@ -13,6 +13,11 @@ const Header = () => {
     });
   }, []);
 
+  useEffect(
+    () => document.body.classList.toggle('no-scroll', navOpen),
+    [navOpen]
+  );
+
   return (
     <>
       <header

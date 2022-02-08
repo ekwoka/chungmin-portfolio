@@ -32,3 +32,9 @@ body {
       url('./fonts/Goldenbook Light.otf') format('opentype');
   }
 }
+
+@layer utilities {
+  .no-scroll {
+    @apply overflow-hidden;
+  }
+}
