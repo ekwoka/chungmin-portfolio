@@ -1,4 +1,5 @@
-const regexp = /_\d+x(\.jpg|\.png)/;
+import { useRef, useLayoutEffect } from 'preact/hooks';
+
 const cloudURL =
   'https://res.cloudinary.com/dmaoqyvwt/image/fetch/f_auto,q_80,w_{width}/';
 const widths = [
@@ -7,28 +8,42 @@ const widths = [
 ];
 
 export default function RespImage({ src, maxSize, autoSize, ...props }) {
-  if (!src || typeof src !== 'string') return;
+  const imgRef = useRef();
+
+  useLayoutEffect(() => {
+    return attachObserver(imgRef.current);
+  }, []);
+
   let imgBase = getCloudinaryUrl(src);
   if (!imgBase.includes('{width}')) props.src = src;
 
-  const thisWidths = maxSize ? widths.filter((w) => w <= maxSize) : widths;
-  props.src = imgBase.replaceAll('{width}', thisWidths[1] || thisWidths[0]);
-  props.srcset = thisWidths
-    .map((w) => `${imgBase.replaceAll('{width}', w)} ${w}w`)
-    .join(',');
+  if (imgBase.includes('{width}')) {
+    const thisWidths = maxSize ? widths.filter((w) => w <= maxSize) : widths;
+    props.src = imgBase.replaceAll('{width}', thisWidths[1] || thisWidths[0]);
+    props.srcset = thisWidths
+      .map((w) => `${imgBase.replaceAll('{width}', w)} ${w}w`)
+      .join(',');
+  }
+
   props.loading = props.loading || 'lazy';
+  props.sizes = props.lodding === 'eager' ? '75vw' : '33vw';
 
-  /* const observer = new ResizeObserver(debounceObserver(observerCB, 800)); */
-
-  return <img {...props} />;
+  return <img ref={imgRef} {...props} />;
 }
 
 function getCloudinaryUrl(value) {
-  if (typeof window === 'undefined') return value;
+  if (typeof window === 'undefined')
+    return `${cloudURL}https://chungmin-port.netlify.app/${value}`;
   value = new URL(value, document.baseURI).href;
-  console.log(value);
   if (value.includes('localhost') || value.includes('0.0.0.0')) return value;
   return cloudURL + value;
+}
+
+function attachObserver(el) {
+  if (typeof window === 'undefined') return;
+  const observer = new ResizeObserver(debounceObserver(observerCB, 800));
+  observer.observe(el);
+  return () => observer.unobserve(el);
 }
 
 function resize(el) {
