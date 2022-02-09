@@ -6,10 +6,11 @@ location: Seoul, Korea
 thumbnail: /images/uploads/AC-hotel_lobby.jpg
 hero: /images/uploads/AC-hotel_lobby.jpg
 ---
-
 Born of its Spanish roots and European soul, The AC Gangnam Hotel, is design with the approach of function over form, focusing on functionality and disconnecting it from a trend of popular indicator of time, achieving the timeless aesthetics of European classic design overtime, which is unpretentious, elegant, inviting, seasoned, pure, sophisticated, sleek and stylish.
 
 ![](/images/uploads/20220208_152921471_ios.jpg)
+
+![](/images/uploads/level-1-main-lobby-plan.jpg)
 
 ![](/images/uploads/ac-cafe-without-shelving-pillow-updates.jpg)
 
@@ -20,11 +21,11 @@ Born of its Spanish roots and European soul, The AC Gangnam Hotel, is design wi
 
 ![](/images/uploads/media-cafe.jpg)
 
-![](/images/uploads/l1-elevation-lobby-lounge-edited-jane-r2.jpg)
+![](/images/uploads/library-elev.png)
 
-![](/images/uploads/l1-elevation-media-salon-edited-jane.jpg)
+![](/images/uploads/lobby-elev.png)
 
-![](/images/uploads/l1-elevation-cafe-revised-coffee-table-height-floor-lamp.jpg)
+![](/images/uploads/cafe-elev.png)
 
 Materials used are preferred in wood, leather, and metal because they seemed durable and to age more gracefully overtime, achieving the timeless look and feel.
 
