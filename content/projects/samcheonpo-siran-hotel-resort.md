@@ -3,7 +3,7 @@ layout: project
 title: Samcheonpo Siran Hotel & Resort
 priority: 5
 location: South Korea
-thumbnail: /images/uploads/entry.jpg
+thumbnail: /images/uploads/enscape_2021-10-14-09-59-38.jpg
 hero: /images/uploads/entry.jpg
 ---
 
