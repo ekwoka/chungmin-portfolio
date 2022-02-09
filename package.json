@@ -6,7 +6,7 @@
   "scripts": {
     "build": "preact build --prerenderUrls ./prerender-urls.js",
     "serve": "sirv build --port 8080 --cors --single",
-    "dev": "preact watch  --prerenderUrls ./prerender-urls.js",
+    "dev": "open http://0.0.0.0:8080/; preact watch  --prerenderUrls ./prerender-urls.js",
     "lint": "eslint src && prettier --check . '!build'",
     "link-fix": "eslint src --fix && prettier --write . '!build'",
     "test": "jest",
