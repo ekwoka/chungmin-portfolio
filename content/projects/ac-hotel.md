@@ -12,6 +12,10 @@ Born of its Spanish roots and European soul, The AC Gangnam Hotel, is design wi
 
 ![](/images/uploads/level-1-main-lobby-plan.jpg)
 
+Materials used are preferred in wood, leather, and metal because they seemed durable and to age more gracefully overtime, achieving the timeless look and feel.
+
+Furniture take on simple yet classic lines and shapes, neutral or natural colors, adding on simplistic visual appearances to the spaces without standing out from it.
+
 ![](/images/uploads/ac-cafe-without-shelving-pillow-updates.jpg)
 
 <Spacer />
@@ -26,7 +30,3 @@ Born of its Spanish roots and European soul, The AC Gangnam Hotel, is design wi
 ![](/images/uploads/lobby-elev.png)
 
 ![](/images/uploads/cafe-elev.png)
-
-Materials used are preferred in wood, leather, and metal because they seemed durable and to age more gracefully overtime, achieving the timeless look and feel.
-
-Furniture take on simple yet classic lines and shapes, neutral or natural colors, adding on simplistic visual appearances to the spaces without standing out from it.
