@@ -6,12 +6,13 @@ location: South Korea
 thumbnail: /images/uploads/2021.12.20_golf-house-view.jpg
 hero: /images/uploads/2021.12.20_golf-house-view.jpg
 ---
-
 The adaptation of an adventure in the wild and forested mountains, creates the next highly anticipated dream vacation.
 
 An exploration from the nature’s trail brings about new experiences in these destinations, slowing down life’s paces and enjoying the simple pleasures.
 
 Go forth and venture escapade, finding that spiritual human and nature connection.
+
+![](/images/uploads/2021.12.20_golf-house-view.jpg)
 
 C L U B H O U S E
 
@@ -21,7 +22,7 @@ The making of the lounge café, an inspiration from its natural surroundings, d
 
 ![](/images/uploads/2021.12.16_residence-a-view.jpg)
 
-R E S I D E N C E A
+R E S I D E N C E   A
 
 Of serene environment- the perfect cozy spot to unwind and get away from the hustle and bustle of every day, enclave in a wooden treehouse, a warmth and uplifting space.
 
@@ -37,17 +38,11 @@ A gift from nature of grandeur and luxurious lines, to create a perfect palace w
 
 ![](/images/uploads/2021.12.20_terrace.jpg)
 
-TERRACE
+T E R R A C E  H O U S E 
 
 A HILLY TERRAIN
 
 Continual exploration reveals the terrace, a unique luxurious accommodation, which draws inspiration from Mother Nature, of staggering hilly mountainous terrain.
-
-![](/images/uploads/2021.12.20_low-rise-type-portait.jpg)
-
-![](/images/uploads/1_.jpg)
-
-![](/images/uploads/3_.jpg)
 
 ![](/images/uploads/2021.12.20_low-rise-type-living.jpg)
 
