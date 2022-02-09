@@ -3,11 +3,12 @@ layout: project
 title: BOULEVARD RESIDENCE
 priority: 5
 location: Orchard, Singapore
-thumbnail: /images/uploads/foyer.jpg
-hero: /images/uploads/foyer.jpg
+thumbnail: /images/uploads/living-room.jpg
+hero: /images/uploads/living-room.jpg
 ---
-
 All the world’s a stage and all the men and women merely players.
+
+![](/images/uploads/foyer.jpg)
 
 William Shakespeare
 
@@ -19,9 +20,9 @@ After arriving from a private elevator, client first enters a foyer which will g
 
 Arrive through elegant foyer, directs your senses inwards to the Living room and be welcomed with her immersive surroundings, heightens and intrigues your sensorial experiences.
 
-![](/images/uploads/2021.11.22-dining.jpg)
+![](/images/uploads/dining.jpg)
 
-![](/images/uploads/master-bedroom.jpg)
+![](/images/uploads/master-bedroom-copy.jpg)
 
 ![](/images/uploads/bedroom-front-tv-wall.jpg)
 
