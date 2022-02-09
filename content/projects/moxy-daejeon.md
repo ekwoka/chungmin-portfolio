@@ -19,8 +19,6 @@ Upon arrival, the guests will be greeted with a customized railway led lighting 
 
 ![](/images/uploads/210208_12f_public-design.jpg)
 
-
-
 ![](/images/uploads/zone1_ghosting.jpg)
 
 The column detail with corner metal capping is inspired by 'X' and 'O' train signal and colorful lines on the floor is unique and playful thread that connects all space to the end of journey.
@@ -39,7 +37,11 @@ We distilled the elements from the surroundings of Daejeon train station for pla
 
 ![](/images/uploads/key-elevation-open-kitchen-revised.jpg)
 
+![](/images/uploads/screen-shot-2022-02-10-at-1.04.10-am.png)
+
 ![](/images/uploads/zone-4.jpg)
+
+
 
 ![](/images/uploads/zone-4-fp.jpg)
 
