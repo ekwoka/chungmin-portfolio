@@ -48,7 +48,7 @@ Continual exploration reveals the terrace, a unique luxurious accommodation, whi
 
 ![](/images/uploads/2021.12.20_low-rise-type-portait.jpg)
 
-LOW RISE VILLA
+L O W  R I S E  V I L L A
 
 THE GATHERING
 
