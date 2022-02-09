@@ -36,13 +36,13 @@ export default function MobileNav({ className, setOpen, navigation }) {
               leaveTo="opacity-0 translate-x-2">
               <Popover.Panel class="fixed z-10 mt-5 shadow-lg -inset-x-2 transform">
                 <div class="bg-neutral-50 text-neutral-900">
-                  <div class="flex flex-col px-4 pb-6 mx-auto gap-y-2">
+                  <div class="flex flex-col px-4 py-8 mx-auto gap-y-4">
                     {navigation.map((item) => (
                       <Link
                         key={item.label}
                         href={item.target}
-                        class="block transition-all hover:tracking-widest min-w-[8ch] text-center py-2 px-4 text-2xl"
-                        activeClass="font-bold pointer-events-none"
+                        class="block transition-all tracking-wide hover:tracking-widest min-w-[8ch] text-center py-2 px-4 text-2xl"
+                        activeClass="font-bold"
                         onClick={close}>
                         {item.label}
                       </Link>

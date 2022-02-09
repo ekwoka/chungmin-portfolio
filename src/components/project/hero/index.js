@@ -7,7 +7,7 @@ const src = '/images/uploads/AC-hotel_lobby.jpg';
 export default function ProjectHero() {
   return (
     <project-hero class="w-full max-h-[85vh] md:flex md:flex-col md:pt-32 block">
-      <Link href="/project" class="hidden md:block order-first">
+      <Link href="/projects" class="hidden md:block order-first">
         <Arrow class="ml-16 my-8 w-auto h-6 text-neutral-900" />
       </Link>
 
