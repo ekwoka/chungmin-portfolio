@@ -23,6 +23,12 @@ Furniture take on simple yet classic lines and shapes, neutral or natural colors
 
 ![](/images/uploads/ac-cafe-with-shelving-pillow-updates.jpg)
 
+![](/images/uploads/screen-shot-2022-02-09-at-11.29.22-pm.png)
+
+![](/images/uploads/screen-shot-2022-02-09-at-11.30.59-pm.png)
+
+![](/images/uploads/screen-shot-2022-02-09-at-11.30.30-pm.png)
+
 ![](/images/uploads/media-cafe.jpg)
 
 ![](/images/uploads/library-elev.png)
