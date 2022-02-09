@@ -13,11 +13,11 @@ Once a historical bank site in old town of Daejeon in the 70s, MOXY Daejeon is d
 
 MOXY Daejeon is inspired by a journey from train station specifically on Daejeon train station which serves as a hub of transportation in Korea and where diverse cultures were created by come and go passengers for the past half decade.
 
-![](/images/uploads/zone-2.jpg)
+![](/images/uploads/210208_12f_public-design.jpg)
 
 Upon arrival, the guests will be greeted with a customized railway led lighting with various pattern and color, which draws guests in from the arrival and allow them to be in playful and casual stage surrounded by local arts.
 
-![](/images/uploads/210208_12f_public-design.jpg)
+![](/images/uploads/zone-2.jpg)
 
 ![](/images/uploads/zone1_ghosting.jpg)
 
@@ -40,8 +40,6 @@ We distilled the elements from the surroundings of Daejeon train station for pla
 ![](/images/uploads/screen-shot-2022-02-10-at-1.04.10-am.png)
 
 ![](/images/uploads/zone-4.jpg)
-
-
 
 ![](/images/uploads/zone-4-fp.jpg)
 
