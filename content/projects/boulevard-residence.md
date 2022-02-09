@@ -1,7 +1,7 @@
 ---
 layout: project
 title: BOULEVARD RESIDENCE
-priority: 5
+priority: 3
 location: Orchard, Singapore
 thumbnail: /images/uploads/living-room.jpg
 hero: /images/uploads/living-room.jpg
