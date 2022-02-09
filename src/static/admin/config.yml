@@ -19,13 +19,7 @@ collections:
           default: 'project',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - {
-          label: 'Priority',
-          name: 'priority',
-          widget: 'number',
-          required: false,
-          default: 5,
-        }
+      - { label: 'Priority', name: 'priority', widget: 'number', default: 5 }
       - {
           label: 'Location',
           name: 'location',
