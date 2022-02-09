@@ -6,9 +6,9 @@ location: Korea
 thumbnail: /images/uploads/l1_lobby.jpg
 hero: /images/uploads/l1_lobby.jpg
 ---
+![](/images/uploads/l1_lobby.jpg)
+
 ![](/images/uploads/l1-lodge_option2.jpg)
-
-
 
 ![](/images/uploads/l1_lift-lobby.jpg)
 
