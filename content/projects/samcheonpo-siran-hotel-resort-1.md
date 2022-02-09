@@ -1,8 +1,10 @@
 ---
 layout: project
 title: 108 Mai Hac De’s Project
+priority: 5
 location: Vietnam
 thumbnail: /images/uploads/200810-render-l6_page_07.jpg
+hero: /images/uploads/200810-render-l6_page_07.jpg
 ---
 
 ![](/images/uploads/200810-render-l6_page_10.jpg)
