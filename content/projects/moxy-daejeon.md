@@ -1,8 +1,10 @@
 ---
 layout: project
 title: MOXY Daejeon
+priority: 5
 location: South Korea
 thumbnail: /images/uploads/zone-2.jpg
+hero: /images/uploads/zone-2.jpg
 ---
 
 Location : South Korea

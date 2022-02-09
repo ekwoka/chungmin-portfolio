@@ -19,6 +19,24 @@ collections:
           default: 'project',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Location', name: 'location', widget: 'string' }
-      - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
+      - {
+          label: 'Priority',
+          name: 'priority',
+          widget: 'number',
+          required: false,
+          default: 5,
+        }
+      - {
+          label: 'Location',
+          name: 'location',
+          widget: 'string',
+          required: false,
+        }
+      - {
+          label: 'List Image',
+          name: 'thumbnail',
+          widget: 'image',
+          required: false,
+        }
+      - { label: 'Hero Image', name: 'hero', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }

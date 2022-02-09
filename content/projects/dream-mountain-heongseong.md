@@ -1,8 +1,10 @@
 ---
 layout: project
 title: Dream Mountain Heongseong
+priority: 5
 location: South Korea
 thumbnail: /images/uploads/2021.12.20_golf-house-view.jpg
+hero: /images/uploads/2021.12.20_golf-house-view.jpg
 ---
 
 The adaptation of an adventure in the wild and forested mountains, creates the next highly anticipated dream vacation.

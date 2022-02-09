@@ -1,8 +1,10 @@
 ---
 layout: project
 title: AC HOTEL SEOUL
+priority: 5
 location: Seoul, Korea
 thumbnail: /images/uploads/AC-hotel_lobby.jpg
+hero: /images/uploads/AC-hotel_lobby.jpg
 ---
 
 Born of its Spanish roots and European soul, The AC Gangnam Hotel, is design with the approach of function over form, focusing on functionality and disconnecting it from a trend of popular indicator of time, achieving the timeless aesthetics of European classic design overtime, which is unpretentious, elegant, inviting, seasoned, pure, sophisticated, sleek and stylish.

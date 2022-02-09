@@ -1,8 +1,10 @@
 ---
 layout: project
 title: BOULEVARD RESIDENCE
+priority: 5
 location: Orchard, Singapore
 thumbnail: /images/uploads/foyer.jpg
+hero: /images/uploads/foyer.jpg
 ---
 
 All the world’s a stage and all the men and women merely players.

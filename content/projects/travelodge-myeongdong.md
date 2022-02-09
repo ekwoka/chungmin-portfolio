@@ -1,9 +1,12 @@
 ---
 layout: project
 title: TRAVELODGE MYEONGDONG
+priority: 5
 location: Korea
 thumbnail: /images/uploads/l1-lobby.jpg
+hero: /images/uploads/l1-lobby.jpg
 ---
+
 ![](/images/uploads/l1-lodge_option2.jpg)
 
 ![](/images/uploads/l1-lift-lobby.jpg)
