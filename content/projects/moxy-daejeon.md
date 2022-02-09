@@ -2,7 +2,7 @@
 layout: project
 title: MOXY Daejeon
 priority: 2
-thumbnail: /images/uploads/zone-2.jpg
+thumbnail: /images/uploads/zone-4.jpg
 hero: /images/uploads/zone-2.jpg
 ---
 
