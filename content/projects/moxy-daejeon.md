@@ -2,10 +2,10 @@
 layout: project
 title: MOXY Daejeon
 priority: 2
-location: ""
 thumbnail: /images/uploads/zone-2.jpg
 hero: /images/uploads/zone-2.jpg
 ---
+
 Location : South Korea
 
 Size : 6,071 Sq. Mtr
