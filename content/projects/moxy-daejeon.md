@@ -2,7 +2,7 @@
 layout: project
 title: MOXY Daejeon
 priority: 2
-thumbnail: /images/uploads/zone-4.jpg
+thumbnail: /images/uploads/zone-3.jpg
 hero: /images/uploads/zone-4.jpg
 ---
 Size : 6,071 Sq. Mtr
