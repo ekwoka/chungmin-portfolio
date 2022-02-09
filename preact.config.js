@@ -8,6 +8,10 @@ module.exports = (config, env, helpers) => {
       rule.test = new RegExp(rule.test.source.replace('ttf', 'ttf|otf'), 'i');
     }
   });
+  const manifestPlugin = helpers.getPluginsByName(config, 'InjectManifest')[0];
+  if (manifestPlugin) {
+    manifestPlugin.plugin.config.maximumFileSizeToCacheInBytes = 80 * 1024;
+  }
   netlifyPlugin(config);
   return config;
 };
