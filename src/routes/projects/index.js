@@ -8,8 +8,10 @@ export default function Projects(props) {
 
   if (data.data) {
     const projects = data.data;
-    const sorted = projects[0].priority
-      ? projects.sort((a, b) => a.priority - b.priority)
+    const sorted = projects[0].details.priority
+      ? projects.sort(
+          (a, b) => parseInt(a.details.priority) - parseInt(b.details.priority)
+        )
       : projects;
     return (
       <main class="flex flex-col md:grid md:grid-cols-2 lg:grid-cols-3 gap-0 md:gap-4 w-full max-w-screen-2xl p-0 md:p-4 mt-16 md:mt-36 mx-auto">
