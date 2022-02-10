@@ -16,6 +16,8 @@ Materials used are preferred in wood, leather, and metal because they seemed dur
 
 Furniture take on simple yet classic lines and shapes, neutral or natural colors, adding on simplistic visual appearances to the spaces without standing out from it.
 
+![](/images/uploads/AC-hotel_lobby.jpg)
+
 ![](/images/uploads/ac-cafe-without-shelving-pillow-updates.jpg)
 
 <Spacer />
