@@ -20,12 +20,8 @@ A landing stage platform echoing the captivating heartbeat of Cassia Sokcho. Thr
 
 ![](/images/uploads/2022.01.28_lobby-updated.jpg)
 
-The rhythmic approach of arches and large windows of perfect scenic views of Sokcho, is The Harbour, a welcome experience like no others.
+The rhythmic approach of arches inspired by a seaside luring and large windows of perfect scenic views of Sokcho, is welcome experience like no others. With perfect ocean view, it offers tranquil sanctuary and pleasant place to enjoy time surrounded by nature. The materials used here are palisandro blue stone, timber floor, mirror stainless finish, colored glass, and textured finish with vivid accent color for lively ambience. The patterns are from the overall appreciation of nature's reflection at play, engages guest interaction during the stay.
 
 ![](/images/uploads/2022.01.20_banquet-hall_3.jpg)
 
-Gathering with people where the soft arch embraces the space
-
 ![](/images/uploads/2020.01.20_ballroom_.jpg)
-
-The ballroom with perfect ocean view is greeting guests under the rhythmic layered arch lines, inspired by a seaside luring. Like the waves gently crashing on the sand, rhythmical arch ceiling lines are blended with wall panel inspired by Sokcho mountain lines.
