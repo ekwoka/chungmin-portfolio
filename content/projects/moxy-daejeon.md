@@ -41,5 +41,3 @@ We distilled the elements from the surroundings of Daejeon train station for pla
 ![](/images/uploads/zone-4.jpg)
 
 ![](/images/uploads/public-toilet.jpg)
-
-![](/images/uploads/screen-shot-2022-02-09-at-10.09.02-pm.jpg)
