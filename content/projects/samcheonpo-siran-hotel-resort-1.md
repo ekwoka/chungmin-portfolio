@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 108 Mai Hac De’s Project
+title: 108 Mai Hac De
 priority: 7
 location: Hanoi, Vietnam
 thumbnail: /images/uploads/200810-render-l6_page_07.jpg
