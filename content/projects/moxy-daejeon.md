@@ -14,7 +14,7 @@ MOXY Daejeon is inspired by a journey from train station specifically on Daejeon
 
 ![](/images/uploads/210208_12f_public-design.jpg)
 
-Upon arrival, the guests will be greeted with a customized railway led lighting with various pattern and color, which draws guests in from the arrival and allow them to be in playful and casual stage surrounded by local arts.
+Upon arrival, the guests will be greeted with a customized railway led lighting with various pattern and color, which draws guests in from the arrival and allow them to hop in playful train journey where can enjoy fun arts by local artists
 
 ![](/images/uploads/zone-2.jpg)
 
