@@ -1,7 +1,7 @@
 ---
 layout: project
 title: AC HOTEL GUEST ROOM
-priority: 5
+priority: 7
 thumbnail: /images/uploads/l3-suite-room.png
 hero: /images/uploads/l3-suite-room.png
 ---
