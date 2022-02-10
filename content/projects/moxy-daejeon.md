@@ -27,8 +27,6 @@ The column detail with corner metal capping is inspired by 'X' and 'O' train sig
 
 We distilled the elements from the surroundings of Daejeon train station for playful experience and incorporated throughout the hotel is blue industrial metal structure, railways neon lighting, colored subway tile, scrabble wall tiles, shopfronts, and textures.
 
-![](/images/uploads/zone-1-fp.jpg)
-
 ![](/images/uploads/zone-3.jpg)
 
 ![](/images/uploads/zone-3-fp.jpg)
@@ -40,8 +38,6 @@ We distilled the elements from the surroundings of Daejeon train station for pla
 ![](/images/uploads/screen-shot-2022-02-10-at-1.04.10-am.png)
 
 ![](/images/uploads/zone-4.jpg)
-
-![](/images/uploads/zone-4-fp.jpg)
 
 ![](/images/uploads/public-toilet.jpg)
 
