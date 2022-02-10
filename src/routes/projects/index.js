@@ -10,7 +10,8 @@ export default function Projects(props) {
     const projects = data.data;
     const sorted = projects[0].details.priority
       ? projects.sort(
-          (a, b) => parseInt(a.details.priority) - parseInt(b.details.priority)
+          (a, b) =>
+            parseInt(a.details.priority, 10) - parseInt(b.details.priority, 10)
         )
       : projects;
     return (
