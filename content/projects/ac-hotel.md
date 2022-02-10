@@ -6,9 +6,7 @@ location: Seoul, Korea
 thumbnail: /images/uploads/ac-cafe-without-shelving-pillow-updates.jpg
 hero: /images/uploads/AC-hotel_lobby.jpg
 ---
-Located in Gangnam Seoul, AC Gangnam Hotel is the first AC hotel launching in Korea, inspired from esign with the approach of function over form, focusing on functionality and disconnecting it from a trend of popular indicator of time, achieving the timeless aesthetics of European classic design overtime, which is unpretentious, elegant, inviting, seasoned, pure, sophisticated, sleek and stylish.
-
-
+Located in Gangnam Seoul, AC Gangnam Hotel is the first AC hotel launching in Korea, inspired from design with the approach of function over form, focusing on functionality and disconnecting it from a trend of popular indicator of time, achieving the timeless aesthetics of European classic design overtime, which is unpretentious, elegant, inviting, seasoned, pure, sophisticated, sleek and stylish.
 
 Seoul is divided along the Han River (Hangang), which splits the city into two halves, with Gangbuk more of an old city including the center of Seoul, and Gangnam is home to the city’s modern attractions such as Lotte World Tower, COEX, and skyscrapers.
 
