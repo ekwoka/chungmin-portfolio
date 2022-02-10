@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Dream Mountain Heongseong
+title: Hoengseong Dream Mountain Resort
 priority: 5
 location: South Korea
 thumbnail: /images/uploads/2021.12.20_golf-house-view.jpg
@@ -20,14 +20,6 @@ Standing from high mountainous elevation, is the peak of a view, a natural crown
 
 The making of the lounge café, an inspiration from its natural surroundings, draws the outdoor elements into indoors setting.
 
-![](/images/uploads/2021.12.16_residence-a-view.jpg)
-
-R E S I D E N C E   A
-
-Of serene environment- the perfect cozy spot to unwind and get away from the hustle and bustle of every day, enclave in a wooden treehouse, a warmth and uplifting space.
-
-The perfect cozy spot to unwind and get away from the hustle and bustle of every day, enclave in a wooden treehouse, a warmth and uplifting space.
-
 ![](/images/uploads/2021.12.20_infinity-pool.jpg)
 
 BAR & INFINITY POOL
@@ -35,6 +27,14 @@ BAR & INFINITY POOL
 A NATURE’S PALACE
 
 A gift from nature of grandeur and luxurious lines, to create a perfect palace with the harmony of water and mountains on the 16th floor. A bespoke experience for all, luxurious, timeless and one of a kind.
+
+![](/images/uploads/2021.12.16_residence-a-view.jpg)
+
+R E S I D E N C E   A
+
+Of serene environment- the perfect cozy spot to unwind and get away from the hustle and bustle of every day, enclave in a wooden treehouse, a warmth and uplifting space.
+
+The perfect cozy spot to unwind and get away from the hustle and bustle of every day, enclave in a wooden treehouse, a warmth and uplifting space.
 
 ![](/images/uploads/2021.12.20_terrace.jpg)
 
