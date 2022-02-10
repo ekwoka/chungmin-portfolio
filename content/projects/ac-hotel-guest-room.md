@@ -7,6 +7,9 @@ hero: /images/uploads/l3-suite-room.jpg
 ---
 ![](/images/uploads/l3-suite-room.jpg)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/l3-jacuzzi.jpg)
 
 ![](/images/uploads/l19-suite-room.jpg)

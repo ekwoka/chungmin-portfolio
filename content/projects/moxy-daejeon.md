@@ -6,7 +6,7 @@ location: Korea
 thumbnail: /images/uploads/zone-3.jpg
 hero: /images/uploads/zone-4.jpg
 ---
-**OVERALL INTERIOR DESIGN DEVELOPMENT / BUILT-IN FURNITURE DESIGN / ASSISTANT DESIGN DIRECTOR / DESIGN DOCUMENTATION**
+OVERALL INTERIOR DESIGN DEVELOPMENT / BUILT-IN FURNITURE DESIGN / ASSISTANT DESIGN DIRECTOR / DESIGN DOCUMENTATION
 
 Once a historical bank site in old town of Daejeon in the 70s, MOXY Daejeon is designed to showcase the past and the present with its historical background, drawing people of diverse cultures together.
 
@@ -28,13 +28,22 @@ We distilled the elements from the surroundings of Daejeon train station for pla
 
 ![](/images/uploads/zone-3.jpg)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/zone-3-fp.jpg)
 
 ![](/images/uploads/key-elevation-grab-go-revised.jpg)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/key-elevation-open-kitchen-revised.jpg)
 
 ![](/images/uploads/screen-shot-2022-02-10-at-1.04.10-am.png)
+
+<Spacer />
+<Spacer />
 
 ![](/images/uploads/zone-4.jpg)
 

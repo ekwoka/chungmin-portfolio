@@ -8,20 +8,35 @@ hero: /images/uploads/l1_lobby.jpg
 ---
 ![](/images/uploads/l1_lobby.jpg)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/l1-lodge_option2.jpg)
 
 ![](/images/uploads/l1_lift-lobby.jpg)
+
+<Spacer />
+<Spacer />
 
 ![](/images/uploads/screen-shot-2022-02-10-at-1.30.32-am.png)
 
 ![](/images/uploads/screen-shot-2022-02-10-at-1.27.13-am.png)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/b1_spa-reception.jpg)
 
 ![](/images/uploads/b1-snack-bar.jpg)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/b1-spa-treatment-room.jpg)
 
 ![](/images/uploads/b1-gym.jpg)
+
+<Spacer />
+<Spacer />
 
 ![](/images/uploads/screen-shot-2022-02-10-at-1.27.38-am.png)

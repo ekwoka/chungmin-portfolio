@@ -17,8 +17,14 @@ Calling the fun hunters on board the MOXY train car
 
 ![](/images/uploads/screen-shot-2022-02-10-at-12.58.20-am.jpg)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/screen-shot-2022-02-10-at-1.00.37-am.jpg)
 
 ![](/images/uploads/twin-room.jpg)
+
+<Spacer />
+<Spacer />
 
 ![](/images/uploads/screen-shot-2022-02-10-at-12.58.05-am.jpg)

@@ -20,6 +20,8 @@ Materials used are preferred in wood, leather, and metal because they seemed dur
 
 Furniture take on simple yet classic lines and shapes, neutral or natural colors, adding on simplistic visual appearances to the spaces without standing out from it.
 
+<Spacer />
+
 ![](/images/uploads/AC-hotel_lobby.jpg)
 
 ![](/images/uploads/ac-cafe-without-shelving-pillow-updates.jpg)
@@ -31,16 +33,28 @@ Furniture take on simple yet classic lines and shapes, neutral or natural colors
 
 ![](/images/uploads/screen-shot-2022-02-09-at-11.29.22-pm.png)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/screen-shot-2022-02-09-at-11.30.59-pm.png)
 
 ![](/images/uploads/screen-shot-2022-02-09-at-11.30.30-pm.png)
+
+<Spacer />
+<Spacer />
 
 ![](/images/uploads/media-cafe.jpg)
 
 ![](/images/uploads/library-elev.png)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/lobby-elev.png)
 
 ![](/images/uploads/cafe-elev.png)
+
+<Spacer />
+<Spacer />
 
 ![](/images/uploads/pdr-1-wedding-set-up.jpeg)

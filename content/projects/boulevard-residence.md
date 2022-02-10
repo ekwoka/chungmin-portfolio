@@ -20,12 +20,21 @@ Following through a foyer, soft muted color and materials with beautiful scenery
 
 ![](/images/uploads/living-room.jpg)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/dining.jpg)
 
 ![](/images/uploads/master-bedroom-copy.jpg)
 
+<Spacer />
+<Spacer />
+
 ![](/images/uploads/bedroom-front-tv-wall.jpg)
 
 ![](/images/uploads/bathroom.jpg)
+
+<Spacer />
+<Spacer />
 
 ![](/images/uploads/study-room.jpg)
