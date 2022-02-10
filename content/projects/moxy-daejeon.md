@@ -2,6 +2,7 @@
 layout: project
 title: MOXY DAEJEON PUBLIC
 priority: 2
+location: Korea
 thumbnail: /images/uploads/zone-3.jpg
 hero: /images/uploads/zone-4.jpg
 ---
