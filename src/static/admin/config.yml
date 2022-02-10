@@ -34,3 +34,13 @@ collections:
         }
       - { label: 'Hero Image', name: 'hero', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content/pages'
+    create: true
+    slug: '{{page}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Main Image', name: 'image', widget: 'image', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
