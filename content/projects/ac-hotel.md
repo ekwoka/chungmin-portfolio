@@ -36,3 +36,5 @@ Furniture take on simple yet classic lines and shapes, neutral or natural colors
 ![](/images/uploads/lobby-elev.png)
 
 ![](/images/uploads/cafe-elev.png)
+
+![](/images/uploads/pdr-1-wedding-set-up.jpeg)
