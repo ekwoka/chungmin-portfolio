@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Cassia Banyan Tree Sokcho
-priority: 5
+priority: 4
 location: South Korea
 thumbnail: /images/uploads/staircase.jpg
 hero: /images/uploads/2022.01.28_staircase-entry.jpg
