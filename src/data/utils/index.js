@@ -9,4 +9,12 @@ function getDetails(data) {
   return details;
 }
 
-export { getDetails };
+function getBody(md) {
+  return md.replace(/---(.*\n)*---/, '');
+}
+
+function getMD(md) {
+  return [getDetails(md), getBody(md)];
+}
+
+export { getMD };

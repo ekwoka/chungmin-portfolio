@@ -1,10 +1,9 @@
 import Hero from '../../components/hero';
 import homeContent from '../../../content/pages/home.md';
 import Markdown from 'markdown-to-jsx';
-import { getDetails } from '../../data/utils';
+import { getMD } from '../../data/utils';
 
-const details = getDetails(homeContent);
-const body = homeContent.replace(/---(.*\n)*---/, '');
+const [details, body] = getMD(homeContent);
 
 const Home = () => (
   <main>
