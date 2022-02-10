@@ -7,7 +7,7 @@ const [details, body] = getMD(homeContent);
 
 const Home = () => (
   <main>
-    <Hero img={details.image} />
+    <Hero img={details.image} className="min-h-screen" />
     {body.length > 5 && (
       <Markdown class="prose prose-neutral mx-auto pt-8">{body}</Markdown>
     )}
