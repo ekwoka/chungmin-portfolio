@@ -26,11 +26,8 @@ const Header = () => {
             ? 'bg-neutral-50/75 text-neutral-900 shadow backdrop-blur'
             : 'bg-neutral-50/0 text-neutral-900 shadow-none backdrop-blur-0'
         }`}>
-        <header-wrapper class="flex flex-row md:flex-col justify-between md:justify-center mx-auto gap-4 w-full md:max-w-max md:px-8">
-          <h1 class="flex-shrink-0 px-4 py-2 text-xl font-goldenbook uppercase md:text-3xl text-center">
-            Claire Lee
-          </h1>
-          <nav class="flex-shrink hidden gap-4 md:flex justify-self-end">
+        <header-wrapper class="flex flex-row justify-between md:items-center mx-auto gap-4 w-full md:max-w-screen-xl md:px-8">
+          <nav class="flex-shrink hidden gap-4 md:flex md:w-1/3">
             {mainNavigation.map((item) => (
               <Link
                 key={item.target}
@@ -41,8 +38,14 @@ const Header = () => {
               </Link>
             ))}
           </nav>
+          <Link
+            href="/"
+            activeClass="pointer-events-none"
+            class="flex-shrink-0 px-4 py-2 text-xl font-goldenbook uppercase md:text-3xl text-center md:w-1/3">
+            <h1>Claire Lee</h1>
+          </Link>
           <MobileNav
-            className="block md:hidden"
+            className="block md:opacity-0 md:w-1/3"
             navigation={mainNavigation}
             setOpen={setNavOpen}
           />

@@ -1,7 +1,7 @@
 export const mainNavigation = [
   {
     label: 'About',
-    target: '/',
+    target: '/about',
   },
   {
     label: 'Projects',

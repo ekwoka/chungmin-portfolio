@@ -11,7 +11,7 @@ function classNames(...classes) {
 
 export default function MobileNav({ className, setOpen, navigation }) {
   return (
-    <Popover class="relative">
+    <Popover class="relative md:w-1/3 flex-shrink">
       {({ open, close }) => {
         setOpen(open);
         return (
