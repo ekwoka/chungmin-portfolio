@@ -8,7 +8,7 @@ export function GridItem({
   loading,
 }) {
   return (
-    <Link href={`/project/${href}`} class="group w-full relative">
+    <Link href={`/project/${href}`} class="group w-full relative min-h-8">
       <RespImage
         src={thumbnail ? thumbnail : hero}
         class="w-full h-full object-cover md:group-hover:opacity-75 transition-opacity"
