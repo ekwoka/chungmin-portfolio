@@ -8,15 +8,11 @@ hero: /images/uploads/screen-shot-2022-02-10-at-12.57.44-am.png
 ---
 ![](/images/uploads/zoning.jpg)
 
-![](/images/uploads/rm-concept.jpg)
-
 ![](/images/uploads/screen-shot-2022-02-10-at-12.57.44-am.png)
 
 ![](/images/uploads/screen-shot-2022-02-10-at-12.58.20-am.jpg)
 
 ![](/images/uploads/screen-shot-2022-02-10-at-1.00.37-am.jpg)
-
-![](/images/uploads/room-concept.jpg)
 
 ![](/images/uploads/twin-room.jpg)
 
