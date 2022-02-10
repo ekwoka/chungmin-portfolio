@@ -6,8 +6,6 @@ location: Korea
 thumbnail: /images/uploads/zone-3.jpg
 hero: /images/uploads/zone-4.jpg
 ---
-Size : 6,071 Sq. Mtr
-
 **OVERALL INTERIOR DESIGN DEVELOPMENT / BUILT-IN FURNITURE DESIGN / ASSISTANT DESIGN DIRECTOR / DESIGN DOCUMENTATION**
 
 Once a historical bank site in old town of Daejeon in the 70s, MOXY Daejeon is designed to showcase the past and the present with its historical background, drawing people of diverse cultures together.
