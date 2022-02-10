@@ -1,3 +1,6 @@
+import RespImage from '../../components/respImage';
+import ImageSlider from '../../components/galleries/imageSlider';
+
 function getDetails(data) {
   const matadata = data.match(/---(.*\n)*---/)[0];
   const details = matadata.match(/(.*):(.*)/g).reduce((obj, detail) => {
@@ -17,4 +20,28 @@ function getMD(md) {
   return [getDetails(md), getBody(md)];
 }
 
-export { getMD };
+const projectMDOptions = {
+  wrapper: 'article',
+  forceWrapper: true,
+  overrides: {
+    ImageSlider: { component: ImageSlider },
+    img: {
+      component: RespImage,
+      props: {
+        class:
+          'w-full lg:col-span-3 lg:block -mx-[50vw] w-[100vw] relative inset-x-1/2 max-w-[100vw] lg:mx-auto lg:w-full lg:static lg:inset-0 lg:max-w-full',
+      },
+    },
+    p: {
+      props: {
+        class: 'leading-loose max-w-prose mx-auto lg:contents',
+      },
+    },
+    Spacer: {
+      component: 'div',
+      class: 'hidden lg:block',
+    },
+  },
+};
+
+export { getMD, projectMDOptions };
