@@ -2,6 +2,7 @@
 layout: project
 title: MOXY DAEJEON GUEST ROOM
 priority: 5
+location: Daejeon, Korea
 thumbnail: /images/uploads/screen-shot-2022-02-10-at-12.57.44-am.png
 hero: /images/uploads/screen-shot-2022-02-10-at-12.57.44-am.png
 ---
