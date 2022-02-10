@@ -12,11 +12,11 @@ William Shakespeare
 
 ![](/images/uploads/foyer.jpg)
 
-Located on the top floor of the condominium in Orchard, Boulevard residence is inspired by a theatrical stage where a diva stands on.
+Located on the top floor of the condominium in Orchard, Boulevard residence is a high-end residential project, inspired by a theatrical stage where a diva stands on.
 
-After arriving from a private elevator, client first enters a foyer which will greet her with soft curved lines and elegant surroundings. Elevate the space with burgundy marble inserts floor and bronze metal wall trim. Bring the soft curved lines on the wall and place a full height mirror with modern classic molding, which ease the stress from hustle and bustle and lift up the mood for great start of a day.
+Arriving from a private elevator, client will first enter a foyer greeting her with soft curved lines and elegant surroundings. Elevate the arrival stage with burgundy marble inserts floor and bronze metal wall trim. Soft colors and textured curved walls with a full height mirror in modern classic style is timeless and elegant yet unique with accent color.
 
-A great window view of Orchard street directs your senses inwards to the Living room and be welcomed with her immersive surroundings, heightens and intrigues your sensorial experiences.
+Following through a foyer, soft muted color and materials with beautiful scenery of Orchard welcome you home from the hustling day and directs your senses inwards to the personal tranquil sanctuary.
 
 ![](/images/uploads/living-room.jpg)
 
