@@ -1,11 +1,11 @@
 export const mainNavigation = [
   {
-    label: 'About',
-    target: '/about',
-  },
-  {
     label: 'Projects',
     target: '/projects/',
+  },
+  {
+    label: 'About',
+    target: '/about',
   },
 ];
 

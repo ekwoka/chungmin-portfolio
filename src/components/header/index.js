@@ -32,7 +32,7 @@ const Header = () => {
               <Link
                 key={item.target}
                 href={item.target}
-                class="block transition-all hover:tracking-widest min-w-[12ch] text-center py-2 px-4 flex-none"
+                class="block transition-all hover:tracking-widest min-w-[12ch] text-center py-2 px-4 flex-none uppercase"
                 activeClass="font-bold pointer-events-none">
                 {item.label}
               </Link>

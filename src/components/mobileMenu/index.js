@@ -41,7 +41,7 @@ export default function MobileNav({ className, setOpen, navigation }) {
                       <Link
                         key={item.label}
                         href={item.target}
-                        class="block transition-all tracking-wide hover:tracking-widest min-w-[8ch] text-center py-2 px-4 text-2xl"
+                        class="block transition-all tracking-wide hover:tracking-widest min-w-[8ch] text-center py-2 px-4 text-2xl uppercase"
                         activeClass="font-bold"
                         onClick={close}>
                         {item.label}
