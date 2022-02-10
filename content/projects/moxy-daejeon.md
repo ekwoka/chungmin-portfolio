@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MOXY Daejeon
+title: MOXY DAEJEON PUBLIC
 priority: 2
 thumbnail: /images/uploads/zone-3.jpg
 hero: /images/uploads/zone-4.jpg
