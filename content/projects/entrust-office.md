@@ -1,13 +1,14 @@
 ---
 layout: project
 title: Entrust Office
-priority: 5
+priority: 6
 location: Singapore
 thumbnail: /images/uploads/entry-update.jpg
 hero: /images/uploads/entry-update.jpg
 ---
-
 Location : Clark quay, Singapore
+
+![](/images/uploads/entry-update.jpg)
 
 ![](/images/uploads/lounge.jpg)
 
