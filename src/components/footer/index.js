@@ -1,3 +1,3 @@
 export default function Footer() {
-  return <footer class="w-full h-16" />;
+  return <footer class="w-full" />;
 }

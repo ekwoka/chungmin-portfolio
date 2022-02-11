@@ -23,8 +23,10 @@ const Header = () => {
       <header
         class={`py-4 px-8 fixed top-0 inset-x-0 transition-all duration-500 z-20 ${
           isScrolled || navOpen
-            ? 'bg-neutral-50/75 text-neutral-900 shadow backdrop-blur'
-            : 'bg-neutral-50/0 text-neutral-900 shadow-none backdrop-blur-0'
+            ? `text-neutral-900 shadow backdrop-blur ${
+                !navOpen ? 'from-neutral-50 to-neutral-50/75' : 'bg-neutral-50'
+              }`
+            : 'text-neutral-900 shadow-none backdrop-blur-0 bg-gradient-to-b from-neutral-50 via-neutral-50/75 to-neutral-50/0'
         }`}>
         <header-wrapper class="flex flex-row justify-between md:items-center mx-auto gap-4 w-full md:max-w-screen-xl md:px-8">
           <nav class="flex-shrink hidden gap-4 md:flex md:w-1/3">
