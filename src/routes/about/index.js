@@ -10,7 +10,7 @@ export default function About() {
     <main class="w-full pt-24">
       <Hero
         img={details.image}
-        className="max-h-[50vh] w-11/12 md:max-w-prose object-contain "
+        className="max-h-[50vh] w-11/12 md:max-w-prose object-contain"
       />
       {body.length > 5 && (
         <Markdown

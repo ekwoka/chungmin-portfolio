@@ -55,4 +55,4 @@ Furniture take on simple yet classic lines and shapes, neutral or natural colors
 <Spacer />
 <Spacer />
 
-![](/images/uploads/pdr-1-wedding-set-up.jpeg)
+![](/images/uploads/pdr-1-wedding-set-up.jpg)

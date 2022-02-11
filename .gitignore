@@ -1,8 +1,7 @@
 node_modules
 /build
 /*.log
-
-# Local Netlify folder
 .netlify
 .DS_Store
 size-plugin.json
+/src/static/images/uploads/webp
