@@ -44,4 +44,9 @@ const projectMDOptions = {
   },
 };
 
-export { getMD, projectMDOptions };
+const pageMDOptions = {
+  wrapper: 'article',
+  forceWrapper: 'true',
+};
+
+export { getMD, projectMDOptions, pageMDOptions };
