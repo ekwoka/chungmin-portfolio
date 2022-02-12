@@ -3,7 +3,7 @@ layout: project
 title: Cassia Banyan Tree Sokcho
 priority: 4
 location: South Korea
-thumbnail: /images/uploads/2022.01.28_staircase-entry.jpg
+thumbnail: /images/uploads/2022.01.28_lobby-updated.jpg
 hero: /images/uploads/2022.01.28_staircase-entry.jpg
 ---
 Situated on the East sea of Korea, Cassia Sokcho is inspired by port with a story. Originally a fishing village created by the north to seek refuge and sought livelihood by fishing and repairing nets in the past, it evolved as the major port and a major tourist hub in modern days. .
