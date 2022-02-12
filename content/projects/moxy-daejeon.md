@@ -16,13 +16,11 @@ MOXY Daejeon is inspired by a train station journey, specifically on Daejeon tra
 
 Incorporated the column detail from train station signal as a pattern which brings uniqueness and playful thread that connects all space through the end of journey.
 
-![](/images/uploads/210208_12f_public-design.jpg)
-
 ![](/images/uploads/zone-2.jpg)
 
 ![](/images/uploads/zone1_ghosting.jpg)
 
-We distilled the elements from the surroundings of Daejeon train station for playful experience and incorporated throughout the hotel is blue industrial metal structure, railways neon lighting, colored subway tile, scrabble wall tiles, shopfronts, and textures. The column detail with corner metal capping is inspired by 'X' and 'O' train signal and colorful lines on the floor is unique and playful thread that connects all space to the end of journey. 
+<Spacer />
 
 ![](/images/uploads/zone1_with-shelving.jpg)
 
