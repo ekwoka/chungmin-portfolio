@@ -19,7 +19,7 @@
     ]
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.1",
+    "@tailwindcss/typography": "^0.5.2",
     "enzyme": "^3.11.0",
     "enzyme-adapter-preact-pure": "^3.3.0",
     "eslint": "^8.9.0",
@@ -41,12 +41,12 @@
     "autoprefixer": "^10.4.2",
     "graphql": "^16.3.0",
     "markdown-to-jsx": "^7.1.6",
-    "preact": "^10.6.5",
+    "preact": "^10.6.6",
     "preact-cli-plugin-netlify": "^1.6.0",
     "preact-render-to-string": "^5.1.19",
     "preact-router": "^4.0.1",
-    "react": "npm:preact@^10.6.5",
-    "react-dom": "npm:preact@^10.6.5"
+    "react": "npm:preact@^10.6.6",
+    "react-dom": "npm:preact@^10.6.6"
   },
   "jest": {
     "preset": "jest-preset-preact",
