@@ -4,19 +4,19 @@ import Arrow from '../../../svg/arrow';
 
 export default function ProjectHero({ details: { hero, title, location } }) {
   return (
-    <project-hero class="w-full max-h-[85vh] md:flex md:flex-col md:pt-32 block">
-      <Link href="/projects" class="hidden md:block order-first">
-        <Arrow class="ml-16 my-8 w-auto h-6 text-neutral-900" />
+    <project-hero class="block max-h-[85vh] w-full md:flex md:flex-col md:pt-32">
+      <Link href="/projects" class="order-first hidden md:block">
+        <Arrow class="my-8 ml-16 h-6 w-auto text-neutral-900" />
       </Link>
 
       <RespImage
-        class="w-full max-h-[75vh] min-h-[50vh] md:min-h-0 object-cover order-last shadow md:shadow-none"
+        class="order-last max-h-[75vh] min-h-[50vh] w-full object-cover shadow md:min-h-0 md:shadow-none"
         src={hero}
         loading="eager"
       />
-      <project-info class="px-8 pt-8 mx-auto w-full max-w-prose font-goldenbook order-1 md:ml-16 md:pl-0 md:pt-4 md:pb-8 block">
-        <h1 class="text-4xl md:text-5xl block uppercase">{title}</h1>
-        {location && <h2 class="text-lg md:text-3xl block">{location}</h2>}
+      <project-info class="order-1 mx-auto block w-full max-w-prose px-8 pt-8 font-goldenbook md:ml-16 md:pl-0 md:pt-4 md:pb-8">
+        <h1 class="block text-4xl uppercase md:text-5xl">{title}</h1>
+        {location && <h2 class="block text-lg md:text-3xl">{location}</h2>}
       </project-info>
     </project-hero>
   );

@@ -15,7 +15,7 @@ export default function Projects(props) {
         )
       : projects;
     return (
-      <main class="flex flex-col md:grid md:grid-cols-2 lg:grid-cols-3 gap-0 md:gap-4 w-full max-w-screen-2xl p-0 md:p-4 mt-16 md:mt-36 mx-auto">
+      <main class="mx-auto mt-16 flex w-full max-w-screen-2xl flex-col gap-0 p-0 md:mt-36 md:grid md:grid-cols-2 md:gap-4 md:p-4 lg:grid-cols-3">
         {sorted.map((project, i) => (
           <GridItem
             key={project.id}

@@ -69,6 +69,10 @@
   },
   "prettier": {
     "singleQuote": true,
-    "bracketSameLine": true
+    "bracketSameLine": true,
+    "tailwindConfig": "tailwind.config.js",
+    "plugins": [
+      "prettier-plugin-tailwindcss"
+    ]
   }
 }

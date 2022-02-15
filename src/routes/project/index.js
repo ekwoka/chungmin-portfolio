@@ -7,7 +7,7 @@ export default function Project(props) {
   const [data, isLoading] = usePrerenderData(props);
   if (isLoading) {
     return (
-      <main class="flex flex-col justify-center items-center h-screen">
+      <main class="flex h-screen flex-col items-center justify-center">
         <div class="text-center">
           <h1 class="text-3xl font-bold">Loading...</h1>
         </div>
@@ -18,10 +18,10 @@ export default function Project(props) {
   if (data?.data) {
     const { content, details } = data.data;
     return (
-      <main class="flex flex-col gap-4 min-h-max h-full bg-neutral-100 w-full max-w-screen-2xl mx-auto">
+      <main class="mx-auto flex h-full min-h-max w-full max-w-screen-2xl flex-col gap-4 bg-neutral-100">
         <ProjectHero details={details} />
         <Markdown
-          class="px-8 prose min-h-max h-full prose-neutral relative font-proxima lg:grid lg:grid-flow-row lg:grid-cols-4 max-w-full lg:gap-x-4 lg:justify-center lg:items-center"
+          class="prose prose-neutral relative h-full min-h-max max-w-full px-8 font-proxima lg:grid lg:grid-flow-row lg:grid-cols-4 lg:items-center lg:justify-center lg:gap-x-4"
           options={projectMDOptions}>
           {content}
         </Markdown>
