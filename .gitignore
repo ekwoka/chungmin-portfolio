@@ -5,3 +5,4 @@ node_modules
 .DS_Store
 size-plugin.json
 /src/static/images/uploads/webp
+.npmrc
